@@ -1,5 +1,4 @@
 # Web Map of United States Airports
-### Made with leaflet
 ---
 
 ## Description
